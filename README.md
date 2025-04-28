@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DopeByDefault
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Frontend Development, and looking forward to jumping into backend.
 - ⚡ Fun fact: im also a music producer
 
 <!---
